@@ -1,0 +1,19 @@
+
+# Terraform generated files (do NOT commit)
+
+**/.terraform/*
+
+*.tfstate
+
+*.tfstate.*
+
+terraform.tfvars
+
+*.tfvars
+
+
+
+# optional: keep lock file untracked (remove this line if you want to commit it)
+
+.terraform.lock.hcl
+
